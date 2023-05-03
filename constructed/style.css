@@ -1124,6 +1124,16 @@ hr.invis1 {
     padding-right: 30px;
     text-align: center;
 }
+.centerlogo{
+    background-image: url(constructed/images/01_VM Logo-01.png);
+    background-size: auto 800px;
+    background-repeat:no-repeat;
+    
+}
+.background{
+    background-color: #000;
+    opacity: 80%;
+}
 .customwidget p {
     font-style: italic;
     font-size: 16px;
@@ -1566,7 +1576,7 @@ select.mobile-device {
     font-weight: 400;
     font-size: 20px;
     text-transform: capitalize;
-    line-height: !important;
+    line-height:0 !important;
 }
 
     
@@ -1885,7 +1895,7 @@ select.mobile-device {
     float: right;
     width: 50%;
 }
-.text-app:hover {} .app_version .section-title h3 {
+.text-app:hover .app_version .section-title h3 {
     font-size: 30px;
     font-weight: 500;
     line-height: 62px;
