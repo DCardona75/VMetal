@@ -26,8 +26,8 @@
 }
 .socials.inline-inside a:hover,
 .socials.inline-inside a:focus {
-    color: #e8a900;
-    border: solid #e8a900 1px;
+    color: #939598;
+    border: solid #939598 1px;
     border-radius: 100%;
 }
 .top-area-block.top-area-socials.socials-colored-hover {
@@ -80,7 +80,7 @@ body.building_version .first-section h2 {
     font-size: 54px;
 }
 .yellow {
-    color: #e8a900;
+    color: #939598;
 }
 #home .lead {
     color: #fff;
@@ -98,16 +98,13 @@ body.building_version .first-section h2 {
     letter-spacing: 2px;
     padding-bottom: 10px;
 }
-#about.section.wb {
-    background: url('../uploads/building/construction01.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-}
+
+
 h2::after {
     width: 65px;
     height: 5px;
     content: "";
-    background: #fbcf00;
+    background: #414042;
     position: relative;
     display: block;
     margin: 10px 0;
@@ -123,7 +120,7 @@ h2 {
     padding: 45px 0 0;
 }
 .read-more {
-    background: #e8a900;
+    background: #939598;
     color: #111;
     font-weight: 900;
     padding: 10px 30px;
@@ -134,7 +131,7 @@ h2 {
 }
 .read-more:hover {
     background: #111;
-    color: #e8a900;
+    color: #939598;
 }
 .row.text-center.about-row {
     margin-top: 60px;
@@ -295,7 +292,7 @@ body.building_version .section-title h3 {
     z-index: -2;
     width: 60px;
     height: 3px;
-    background-color: #ffbc13;
+    background-color: #939598;
 }
 .footer-logo {
     width: 115px;
@@ -321,7 +318,7 @@ body.building_version .section-title h3 {
 }
 #footer-widgets .widget.widget_links ul.col2 li:hover a,
 #footer-widgets .widget.widget_links ul.col2 li:focus a {
-    color: #ffbc13;
+    color: #939598;
 }
 #footer-widgets .widget.widget_links ul li a {
     position: relative;
@@ -374,7 +371,7 @@ body.building_version .section-title h3 {
 #footer-widgets .widget.widget_socials .socials a:hover,
 #footer-widgets .widget.widget_socials .socials a:focus {
     color: #fff;
-    background: #e8a900;
+    background: #939598;
 }
 #bottom {
     font-size: 0.857em;
@@ -602,7 +599,7 @@ div#services .service-inform-text p {
     position: relative;
 }
 div#services .serv .service-inform-text h3 {
-    color: #e8a900;
+    color: #939598;
     padding: 0;
     margin: 15px 0 10px;
     text-transform: uppercase;
@@ -922,7 +919,7 @@ div#services .serv .service-inform-text p {
     margin-bottom: 25px;
 }
 .info-shape {
-    background: #e8a900;
+    background: #939598;
     float: left;
     width: 50px;
     height: 50px;

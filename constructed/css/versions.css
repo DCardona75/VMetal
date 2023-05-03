@@ -14,18 +14,18 @@ body.building_version .message-box h4,
 body.building_version .widget-title small,
 body.building_version .customwidget li i,
 body.building_version .navbar-nav span {
-    color: #ffc000 !important;
+    color: #939598 !important;
 }
 
 body.building_version .lead strong,
 body.building_version .icon-wrapper:hover a,
 body.building_version a:hover,
 body.building_version a:focus {
-    color: #e8a900; 
+    color: #939598; 
 }
 
 body.building_version .effect-1:after {
-    box-shadow: 0 0 0 2px #ffc000;
+    box-shadow: 0 0 0 2px #939598;
 }
 
 
@@ -42,12 +42,12 @@ body.building_version .nav-pills > li.active > a:hover,
 body.building_version .icon-wrapper:hover i,
 body.building_version .grd1 {
     color: #000 !important;
-    background: #ffc000;
-    border: #ffc000;
-    background: -moz-linear-gradient(left, #ffc000 0%, #fdde00 100%);
-    background: -webkit-linear-gradient(left, #ffc000 0%, #fdde00 100%);
-    background: linear-gradient(to right, #ffc000 0%, #fdde00 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#ffc000', endColorstr='#fdde00', GradientType=1);
+    background: #939598;
+    border: #939598;
+    background: -moz-linear-gradient(left, #939598 0%, #939598 100%);
+    background: -webkit-linear-gradient(left, #939598 0%, #939598 100%);
+    background: linear-gradient(to right, #939598 0%, #939598 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#939598', endColorstr='#939598', GradientType=1);
 }
 
 body.building_version .dev-list .widget h3,
@@ -68,19 +68,19 @@ body.building_version .grd1:hover,
 body.building_version .grd1:focus {
     background-position: 100px;
     color: #000 !important;
-    background: #fdde00;
-    background: -moz-linear-gradient(left, #fdde00 0%, #ffc000 100%);
-    background: -webkit-linear-gradient(left, #fdde00 0%, #ffc000 100%);
-    background: linear-gradient(to right, #fdde00 0%, #ffc000 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#fdde00', endColorstr='#ffc000', GradientType=1);
+    background: #939598;
+    background: -moz-linear-gradient(left, #414042 0%, #939598 100%);
+    background: -webkit-linear-gradient(left, #414042 0%, #939598 100%);
+    background: linear-gradient(to right, #414042 0%, #939598 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#414042', endColorstr='#939598', GradientType=1);
 }
 
 body.building_version .navbar-nav span {
-    color: #e8a900 !important;
+    color: #939598 !important;
 }
 
 body.building_version .seo-services .col-md-3:hover img {
-    border-color: #fdde00;
+    border-color: #939598;
 }
 
 body.building_version .affix {
@@ -104,7 +104,7 @@ body.building_version .header_style_01 .navbar-default .navbar-nav > li.active a
 body.building_version .header_style_01 .navbar-default .navbar-nav > li:hover a,
 body.building_version .header_style_01 .navbar-default .navbar-nav > li:focus a,
 body.building_version .header_style_01 .navbar-default .navbar-nav > li:active a {
-    color: #e8a900 !important;
+    color: #939598 !important;
 }
 
 body.building_version .first-section {

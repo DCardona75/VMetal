@@ -87,7 +87,6 @@ a {
 }
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
@@ -1125,14 +1124,16 @@ hr.invis1 {
     text-align: center;
 }
 .centerlogo{
-    background-image: url(constructed/images/01_VM Logo-01.png);
-    background-size: auto 800px;
+    width: 100%;
+    height: auto;
     background-repeat:no-repeat;
     
 }
-.background{
-    background-color: #000;
-    opacity: 80%;
+.background {
+    background-color: rgba(0,0,0,90%);
+    border-radius: 5%;
+    margin: 3%;
+   
 }
 .customwidget p {
     font-style: italic;
