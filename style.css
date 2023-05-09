@@ -160,7 +160,7 @@ a,
 .lead {
     font-size: 18px;
     line-height: 30px;
-    color: #767676;
+    color: #000000;
     margin: 0;
     padding: 0;
 }
@@ -298,7 +298,7 @@ a img.aligncenter {
     min-width: 200px;
 }
 .header_style_01 {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.5);
     display: block;
     left: 0;
     padding: 20px 40px !important;
@@ -316,10 +316,13 @@ a img.aligncenter {
 .header_style_01 .navbar-nav,
 .header_style_01 .navbar-default,
 .header_style_01 .nav {
-    margin-bottom: 0 !important;
+    margin-bottom: 1% !important;
+    padding-top: 1%;
 }
 .header_style_01 .navbar-brand {
     padding: 2px 15px 0 15px;
+    background-color: white;
+    border-radius: 30%;
 }
 .header_style_01 .navbar-default .navbar-nav > li > a {
     border-radius: 0;
@@ -481,7 +484,7 @@ li.social-links a {
     margin-bottom: 60px;
 }
 .section-title p {
-    color: #999;
+    color: #000000;
     font-weight: 400;
     font-size: 18px;
     line-height: 33px;
@@ -669,7 +672,7 @@ li.social-links a {
 .testimonial small,
 .testimonial .lead {
     background-color: transparent;
-    color: #aaa;
+    color: #000000;
     display: block;
     font-size: 16px;
     font-style: italic;
@@ -949,7 +952,7 @@ li.social-links a {
     padding-top: 10px;
     font-size: 19px;
     font-style: italic;
-    color: #999;
+    color: #000000;
     padding-bottom: 0;
 }
 .post-media {
@@ -1128,11 +1131,14 @@ hr.invis1 {
     height: auto;
     background-repeat:no-repeat;
     
+    
+    
 }
 .background {
-    background-color: rgba(0,0,0,90%);
+    background-color: rgb(236, 236, 236);
     border-radius: 5%;
-    margin: 3%;
+    margin: 3%
+    
    
 }
 .customwidget p {
@@ -1524,7 +1530,7 @@ select.mobile-device {
     border-top: 0;
     border-bottom: 2px solid #ebebeb;
     box-sizing: border-box;
-    color: #666;
+    color: #000000;
     font-size: 16px;
     outline: 0 none;
     padding: 10px 0px;
@@ -1535,20 +1541,20 @@ select.mobile-device {
     border-radius: 0;
 }
 .contact_form textarea {
-    color: #666;
+    color: #000000;
     padding: 0 0px !important;
     height: 90px !important;
     border-radius: 0;
 }
 .contact_form .form-control::-webkit-input-placeholder {
-    color: #bcbcbc;
+    color: #000000;
 }
 .contact_form .form-control::-moz-placeholder {
     opacity: 1;
-    color: #bcbcbc;
+    color: #000000;
 }
 .contact_form .form-control::-ms-input-placeholder {
-    color: #bcbcbc;
+    color: #000000;
 }
 #contact {
     background: url(images/bg.png) no-repeat center center #fff;
@@ -1578,6 +1584,10 @@ select.mobile-device {
     font-size: 20px;
     text-transform: capitalize;
     line-height:0 !important;
+}
+.overlay{
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: auto;
 }
 
     
