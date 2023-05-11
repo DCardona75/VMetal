@@ -332,6 +332,7 @@
     }
 }
 
+
 @media (max-width: 600px) {
     body.host_version .btn-light,
     body.app_version .btn-light {

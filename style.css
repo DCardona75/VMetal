@@ -1137,7 +1137,8 @@ hr.invis1 {
 .background {
     background-color: rgb(236, 236, 236);
     border-radius: 5%;
-    margin: 3%
+    margin: 3%;
+    size-adjust:inherit;
     
    
 }
