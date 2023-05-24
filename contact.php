@@ -5,7 +5,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $last_name = $_POST['last_name'];
     $email = $_POST['email'];
     $phone = $_POST['phone'];
-    $message = $_POST['message'];
+    $comments = $_POST['comments'];
 
  
     // recipient email address
@@ -13,7 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     
     // Do something with the data, such as sending an email
-    mail($to, "Message from $first_name $last_name", $message, $email, $phone);
+    mail($to, "Message from $first_name $last_name", $comments, $email, $phone);
 
     echo 'Form submitted successfully!';
 }
